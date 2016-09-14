@@ -49,7 +49,8 @@
 <br>
 
 <?php 
-
+	
+	// http://php.net/manual/en/function.date.php
 	echo date("d.Y");
 
 ?>
